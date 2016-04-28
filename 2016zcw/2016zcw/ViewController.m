@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     int a = 0;
+    
+    int b = 2;
 }
 
 - (void)didReceiveMemoryWarning {
